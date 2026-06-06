@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(18, 19, 20);
+    color: rgb(255, 255, 255);
+}
+#youtube {
+    color: rgb(255,255,255);
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+}
+#instagram {
+    color: rgb(255,255,255);
+    background: linear-gradient(45deg, #FF7A00 0%, #FF0069 50.59%, #D300C5 100%);
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+}
+#curseforge{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(235, 98, 43);
+}
+#patreon{
+    width: 100px;
+    height: 50px;
+    background-color: black;
+}
+
+#youtubeChannelLogo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+#instagramChannelLogo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+#curseforgeChannelLogo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

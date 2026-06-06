@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+#key1{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key2{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key3{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key4{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key5{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key6{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key7{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key8{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#key9{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#clear{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+}
+#key0{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+#enter{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+}
